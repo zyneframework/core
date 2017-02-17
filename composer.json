@@ -1,0 +1,16 @@
+{
+    "name": "zyneframework/core",
+    "description": "Componente Core do Framework Zyne - Pacote Completo",
+    "type": "library",
+    "require": {
+        "zyneframework/core-min": "dev-master"
+    },
+    "license": "New BSD License",
+    "authors": [
+        {
+            "name": "Gilberto Albino",
+            "email": "zyneframework@zyne.com.br"
+        }
+    ],
+    "minimum-stability": "dev"
+}
