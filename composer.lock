@@ -1,0 +1,48 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "e6aca46037f1c2a05c4a82b3380217e8",
+    "packages": [
+        {
+            "name": "zyneframework/core-min",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/zyneframework/core-min.git",
+                "reference": "8abe3d805710d91a41b5258a828cd6c53551a065"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/zyneframework/core-min/zipball/8abe3d805710d91a41b5258a828cd6c53551a065",
+                "reference": "8abe3d805710d91a41b5258a828cd6c53551a065",
+                "shasum": ""
+            },
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "New BSD License"
+            ],
+            "authors": [
+                {
+                    "name": "Gilberto Albino",
+                    "email": "zyneframework@zyne.com.br"
+                }
+            ],
+            "description": "Componente Core do Framework Zyne - Pacote Mínimo",
+            "time": "2017-02-17 11:36:12"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "zyneframework/core-min": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

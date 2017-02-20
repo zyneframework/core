@@ -12,5 +12,10 @@
             "email": "zyneframework@zyne.com.br"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Zyne\\": "src/"
+        }
+    }
 }
