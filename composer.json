@@ -2,9 +2,6 @@
     "name": "zyneframework/core",
     "description": "Componente Core do Framework Zyne - Pacote Completo",
     "type": "library",
-    "require": {
-        "zyneframework/core-min": "dev-master"
-    },
     "license": "New BSD License",
     "authors": [
         {
@@ -13,6 +10,10 @@
         }
     ],
     "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.2",
+        "zyneframework/core-min": "dev-master"
+    },
     "autoload": {
         "psr-4": {
             "Zyne\\": "src/"
